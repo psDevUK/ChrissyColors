@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Buids\\ChrissyColors\\ChrissyColors.csproj": {}
+  },
+  "projects": {
+    "C:\\Buids\\ChrissyColors\\ChrissyColors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Buids\\ChrissyColors\\ChrissyColors.csproj",
+        "projectName": "ChrissyColors",
+        "projectPath": "C:\\Buids\\ChrissyColors\\ChrissyColors.csproj",
+        "packagesPath": "C:\\Users\\Adz\\.nuget\\packages\\",
+        "outputPath": "C:\\Buids\\ChrissyColors\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.7.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "dependencies": {
+            "PowerShellStandard.Library": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "randomColorSharped.Forms": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

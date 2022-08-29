@@ -1,0 +1,12 @@
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\ChrissyColors.dll
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\ChrissyColors.pdb
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\System.Management.Automation.dll
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\RandomColorGenerator.Forms.dll
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.csproj.AssemblyReference.cache
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.AssemblyInfoInputs.cache
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.AssemblyInfo.cs
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.csproj.CoreCompileInputs.cache
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.csproj.CopyComplete
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.dll
+C:\Buids\ChrissyColors\obj\Debug\net4.7.2\ChrissyColors.pdb

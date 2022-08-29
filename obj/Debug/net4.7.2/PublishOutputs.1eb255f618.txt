@@ -1,0 +1,4 @@
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\publish\ChrissyColors.dll
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\publish\ChrissyColors.pdb
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\publish\System.Management.Automation.dll
+C:\Buids\ChrissyColors\bin\Debug\net4.7.2\publish\RandomColorGenerator.Forms.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k7dg8LAsbbLrgAPz7RQu02FIqe+ztWC1hsXk6DisUCVnhONmDcLL8OChRg5fqHwtXI+fAbmJmZZU7NjKgv09Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Buids\\ChrissyColors\\ChrissyColors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adz\\.nuget\\packages\\powershellstandard.library\\5.1.0\\powershellstandard.library.5.1.0.nupkg.sha512",
+    "C:\\Users\\Adz\\.nuget\\packages\\randomcolorsharped.forms\\1.0.1\\randomcolorsharped.forms.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
